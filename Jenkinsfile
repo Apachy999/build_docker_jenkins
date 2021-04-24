@@ -1,4 +1,4 @@
-node('master') {
+node('main') {
   def version = "jenikins"
   def name = "apachy/test_sa"
   def dockerRegistry = "https://docker.io"
